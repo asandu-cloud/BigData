@@ -8,4 +8,4 @@ notebook>=7.0.0
 matplotlib>=3.8.0
 seaborn>=0.13.0
 findspark
-vaderSentiment
+community 
